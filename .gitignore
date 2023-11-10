@@ -1,0 +1,86 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# React/React Native
+build/
+coverage/
+*.log
+*.cache
+*.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
+dist/
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# MySQL
+*.sql
+*.sql.gz
+
+# Miscellaneous
+*.env
+*.env.local
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.tar.gz
+*.zip
+*.tar
+*.bz2
+*.tgz
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variable files
+.env.*
+!.env.example
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# next.js build output
+.next
+out/
+
+# Nuxt.js build / generate output
+.nuxt
+dist/
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless
