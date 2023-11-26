@@ -29,6 +29,7 @@
 ### Architecture Design
 * Outlining the server-client model.
 * Planning the database schema.
+![Diagram depicting the schema and relationships for Friendbrary](./shared-assets/images/friendbrary-db-diagram.png)
 * Designing the RESTful API endpoints.
 
 ### Development Environment Setup
